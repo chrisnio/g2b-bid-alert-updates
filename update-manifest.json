@@ -1,0 +1,9 @@
+﻿{
+    "version":  "1.9.1",
+    "published_at":  "2026-06-19 10:04:01 +09:00",
+    "package_url":  "g2b-bid-alert.zip",
+    "sha256":  "b078d29eada93573d488b2007cf5c2363409e9abdca8d5ebc0da4ed671d48486",
+    "notes_url":  "update_history.html",
+    "release_notes":  "업데이트 내역 HTML의 제목과 현재 배포 버전 문구가 깨져 보이던 Windows PowerShell 인코딩 문제를 수정했습니다.\nHTML 고정 한글 문구를 인코딩에 영향을 받지 않는 문자 코드로 생성해 이후 빌드에서도 한글이 정상 표시됩니다.",
+    "mandatory":  false
+}
