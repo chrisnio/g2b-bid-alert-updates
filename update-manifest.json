@@ -1,9 +1,9 @@
 {
-    "version":  "1.9.10",
-    "published_at":  "2026-06-22 15:59:06 +09:00",
+    "version":  "1.9.11",
+    "published_at":  "2026-06-22 17:34:37 +09:00",
     "package_url":  "g2b-bid-alert.zip",
-    "sha256":  "9027f399ef79643a7f01db6c86c25529bba5588b951e7698616ef2add24f60e6",
+    "sha256":  "7ceb2558b0b732b839e1aaaebfffff7d7939bbcf7fb92641bf3c34011aeaf354",
     "notes_url":  "update_history.html",
-    "release_notes":  "상단 제작자 정보를 `만든이 : 진형우`로 정리했습니다.\n상단에 카카오톡 오픈채팅 주소를 클릭 가능한 링크로 추가했습니다.\n링크를 누르면 기본 브라우저에서 `https://open.kakao.com/o/sUEJlIAi` 채팅방으로 바로 이동합니다.",
+    "release_notes":  "별표로 지정한 관심 공고를 일반 조회 기록과 분리된 `starred_notices.json` 전용 파일에 저장합니다.\n프로그램을 종료했다 다시 실행해도 관심 공고의 제목·기관·예산·마감·상세 링크와 노란 별표를 자동 복원합니다.\n검색된 공고 재검색창 아래에 일반 공고 목록은 종료 시 초기화되며 관심 별표 공고만 유지된다는 빨간 안내 문구를 추가했습니다.\n업데이트 또는 조회 상태 파일 변경 중에도 관심 공고가 유실되지 않도록 종료 시와 조회 완료 시 별도 백업합니다.",
     "mandatory":  false
 }
