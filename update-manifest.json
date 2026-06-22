@@ -1,8 +1,8 @@
 {
     "version":  "1.9.6",
-    "published_at":  "2026-06-22 10:42:10 +09:00",
+    "published_at":  "2026-06-22 10:50:21 +09:00",
     "package_url":  "g2b-bid-alert.zip",
-    "sha256":  "581de4e148868a6cd75ec53e6e12101c4bd727e8662f8899bb97cf2b4f7d720b",
+    "sha256":  "98ce37402e2480649ea0f4cadfe9f0b856847e934166a34db4db4a27c3dafc8d",
     "notes_url":  "update_history.html",
     "release_notes":  "사전규격 더블클릭 시 나라장터 화면을 자동 탐색하지 않고 API 단건 조회로 앱 내부 상세창을 즉시 표시합니다.\n상세창에서 규격서 파일, 기관·담당자·예산·마감·연계 입찰공고 정보를 바로 확인할 수 있습니다.\n규격서 파일은 사용자가 버튼을 눌렀을 때만 열며 자동 다운로드하지 않습니다.\n기존 나라장터 원본 상세 이동은 `나라장터에서 열기(느림)` 보조 버튼으로 남겼습니다.",
     "mandatory":  false
